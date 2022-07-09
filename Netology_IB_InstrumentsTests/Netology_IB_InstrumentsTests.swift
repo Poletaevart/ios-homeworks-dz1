@@ -1,14 +1,14 @@
 //
-//  NavigationTests.swift
-//  NavigationTests
+//  Netology_IB_InstrumentsTests.swift
+//  Netology_IB_InstrumentsTests
 //
-//  Created by Artem Poletaev on 09.07.2022.
+//  Created by Artem Poletaev on 06.07.2022.
 //
 
 import XCTest
-@testable import Navigation
+@testable import Netology_IB_Instruments
 
-class NavigationTests: XCTestCase {
+class Netology_IB_InstrumentsTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
