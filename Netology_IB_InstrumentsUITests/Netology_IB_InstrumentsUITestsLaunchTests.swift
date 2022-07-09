@@ -1,13 +1,13 @@
 //
-//  NavigationUITestsLaunchTests.swift
-//  NavigationUITests
+//  Netology_IB_InstrumentsUITestsLaunchTests.swift
+//  Netology_IB_InstrumentsUITests
 //
-//  Created by Artem Poletaev on 09.07.2022.
+//  Created by Artem Poletaev on 06.07.2022.
 //
 
 import XCTest
 
-class NavigationUITestsLaunchTests: XCTestCase {
+class Netology_IB_InstrumentsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

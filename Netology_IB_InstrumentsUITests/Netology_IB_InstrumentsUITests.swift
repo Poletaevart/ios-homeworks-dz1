@@ -1,13 +1,13 @@
 //
-//  NavigationUITests.swift
-//  NavigationUITests
+//  Netology_IB_InstrumentsUITests.swift
+//  Netology_IB_InstrumentsUITests
 //
-//  Created by Artem Poletaev on 09.07.2022.
+//  Created by Artem Poletaev on 06.07.2022.
 //
 
 import XCTest
 
-class NavigationUITests: XCTestCase {
+class Netology_IB_InstrumentsUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
